@@ -3,3 +3,7 @@ selenium/standalone-chromium:latest
 
 zookeeper:3.9.3
 bitnami/kafka:3.9.0
+
+
+joxit/docker-registry-ui:static
+registry
