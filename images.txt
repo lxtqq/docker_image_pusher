@@ -1,3 +1,2 @@
 
-joxit/docker-registry-ui:static
-registry
+joxit/docker-registry-ui:2.0.0
