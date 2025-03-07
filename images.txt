@@ -1,1 +1,1 @@
-registry:2.8.0
+kodcloud/kodbox:latest
