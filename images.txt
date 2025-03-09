@@ -1,1 +1,1 @@
-kodcloud/kodbox:latest
+chishin/nginx-proxy-manager-zh:latest
